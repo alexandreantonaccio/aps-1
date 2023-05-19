@@ -57,8 +57,8 @@ article > p {
 }
 
 div.video {
-  background-color: black;
-  margin: 0px -20px 30px -20px;
+  background-color: rgba(0, 0, 0, 0.158);
+  margin: 20px -20px 30px -20px;
   padding: 20px;
   padding-bottom: 58%;
   position: relative;
@@ -84,6 +84,7 @@ div.video > iframe {
 .paragrafo > h2 {
   margin: 20px;
 }
+
 
 #quem_somos > ul {
   margin-left: 40px;
@@ -155,6 +156,7 @@ div.video > iframe {
 aside {
   background-color: #5ad1a6;
   padding: 10px;
+  margin-top: 20px;
   
 }
 

@@ -34,7 +34,7 @@ header { /*manter header sempre no topo da tela*/
 }
 
 body { /*fundo do site*/
-  background-image: url(../imagens/black-carbon-fiber-texture-pattern-background_1017-33436.avif);
+  background-image: url(../imagens/dark-background-with-geometric-design_1048-1454.avif);
   background-color: black;
 }
 
@@ -79,11 +79,12 @@ div.video > iframe {
 }
 
 .paragrafo > p{
-  margin: 20px;
+  font-size: 20px;
 }
 
 .paragrafo > h2 {
   margin: 20px;
+  font-size: 28px;
 }
 
 
@@ -93,7 +94,7 @@ div.video > iframe {
 
  .navbar { /*manter conetúdo do dropdown escondido*/
   overflow: hidden;
-  background-color: #333;
+  background-color: #161616;
   font-family: Arial;
 }
 
@@ -155,14 +156,14 @@ div.video > iframe {
 } 
 
 aside {
-  background-color: #5ad1a6;
+  background-color: rgba(0, 0, 0, 0.158);
   padding: 10px;
   margin-top: 20px;
   
 }
 
 aside > h3 {
-  background-color: #077049;
+  background-color: #353535;
   color: white;
   text-align: center;
   padding: 5px;

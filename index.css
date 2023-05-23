@@ -7,7 +7,7 @@
 }
 
 .titulo { /*estilo do título, centraliza título e imagem + quebra a linha em 2 quando resolução é pequena*/
-  background-image: url(../imagens/fundo-abstrato-gradiente-monocromatico_52683-74300.avif);
+  background-image: url(fundo-abstrato-gradiente-monocromatico_52683-74300.avif);
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -34,7 +34,7 @@ header { /*manter header sempre no topo da tela*/
 }
 
 body { /*fundo do site*/
-  background-image: url(../imagens/dark-background-with-geometric-design_1048-1454.avif);
+  background-image: url(dark-background-with-geometric-design_1048-1454.avif);
   background-color: black;
 }
 
